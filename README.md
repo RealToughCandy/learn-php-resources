@@ -1,5 +1,5 @@
 # learn-php-resources
-A collection of resources for learning PHP. 
+Spreading the word about PHP educational resources!  
 
 # Beginner
 
