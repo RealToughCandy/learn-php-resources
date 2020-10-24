@@ -3,7 +3,7 @@
 _I'm accepting pull requests for this repo. Resources can be paid or free. 
 Please follow the styling conventions (be sure to indicate paid or free) so I can accept your contribution._
 
-### Thank you to my [GitHub Sponsors](https://github.com/sponsors/RealToughCandy) including @eddiejaoude & @keithballinger for making this repo possible!
+### Thank you to my [GitHub Sponsors](https://github.com/sponsors/RealToughCandy) including @eddiejaoude & @keithballinger for making this repo possible.
 
 # Beginner
 
