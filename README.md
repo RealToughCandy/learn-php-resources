@@ -15,8 +15,16 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o
 
 <sup>A free 42-video PHP (and MySQL) series created by an established YouTuber & course creator. Last updated on Mar 14, 2019. </sup>
 
+- **Learn PHP in One Day and Learn It Well. PHP for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 6)**
+https://www.amazon.com/PHP-Beginners-Hands-Project-Project-ebook/dp/B08BK7PPT2
+
+<sup>An easy to read book for absolute beginners to PHP who want to understand this language in a short amount of time. It starts from explaining what PHP is and goes into subjects like PHP data types, loops, etc. At the end, it guids you through a hands-on project by using everything that you have learned. </sup>
 
 # Intermediate
 
+- **PHP The Right Way**
+https://phptherightway.com/
+
+<sup>PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time. </sup>
 
 # Advanced
