@@ -1,7 +1,7 @@
 # learn-php-resources
 ## Spreading the word about PHP educational resources!  
 
-_"The elephant has entered the room."_ -Donovan
+"The elephant has entered the room." -Donovan
 
 _I'm accepting pull requests for this repo. Resources can be paid or free. 
 Please follow the styling conventions (be sure to indicate paid or free) so I can accept your contribution._
@@ -41,30 +41,11 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o
 
 <sup>A free 42-video PHP (and MySQL) series created by an established YouTuber & course creator. Last updated on Mar 14, 2019. </sup>
 
-- **PHP Tutorials (Youtube Channel -  Dani Krossing) - Free**
-https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
-
-<sup>Learn PHP with Dani Krossing.</sup>
-
-- **Object Oriented PHP Tutorials (Youtube Channel - Dani Krossing) - Free**
-https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh
-
-<sup>Learn Object Oriented PHP with Dani Krossing.</sup>
-
-- **PHP Tutorials and Challenges (Youtube Channel - The Codeholic) - Free**
-https://www.youtube.com/playlist?list=PLLQuc_7jk__Wmf_dN_Hhe88GTw-YAMIWk
-
-<sup>Learn Everything PHP from building a shopping cart to debugging web application.</sup>
-
-- **Learn PHP with FreeCodeCamp (Youtube Channel) - Free**
-https://www.youtube.com/playlist?list=PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB
-
-<sup>From Basics to Building a Youtube Clone.</sup>
 
 - **Learn PHP in One Day and Learn It Well. PHP for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 6)**
 https://www.amazon.com/PHP-Beginners-Hands-Project-Project-ebook/dp/B08BK7PPT2
 
-<sup>An easy to read book for absolute beginners to PHP who want to understand this language in a short amount of time. It starts from explaining what PHP is and goes into subjects like PHP data types, loops, etc. At the end, it guids you through a hands-on project by using everything that you have learned. </sup>
+<sup>An easy to read book for absolute beginners to PHP who want to understand this language in a short amount of time. It starts from explaining what PHP is and goes into subjects like PHP data types, loops, etc. At the end, it guides you through a hands-on project by using everything that you have learned. Paid. </sup>
 
 - **Beginning PHP (TeamTreehouse) - PAID**
 https://teamtreehouse.com/tracks/beginning-php
@@ -98,7 +79,17 @@ https://www.udemy.com/course/php-for-beginners-how-to-build-an-ecommerce-store/
 - **PHP The Right Way**
 https://phptherightway.com/
 
-<sup>PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time. </sup>
+<sup>PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time. Free. </sup>
+
+- **freeCodeCamp's Use PHP to Create an MVC YouTube Tutorial**
+https://www.youtube.com/watch?v=6ERdu4k62wI
+
+<sup>Get an understanding of how frameworks are made with this free 6-hour tutorial. The framework you build is not production-ready.</sup>
+
+- **Laracasts**
+https://www.laracasts.com
+
+<sub>A video-based paid-membership site featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level. 
 
 - **Intermidiate PHP (Teamtreehouse) - PAID**
 https://teamtreehouse.com/tracks/intermediate-php
