@@ -20,7 +20,7 @@ https://youtu.be/NihZYkNpslE
 
 <sup>A free 1-video PHP Tutorial created by an established YouTuber & course creator. Video uploaded on Dec 9, 2019. </sup>
 
-- **Dani Krossing's PHP YouTube Tutorial Series**
+- **Dani Krossing's (formerly mmtuts) PHP YouTube Tutorial Series**
 https://www.youtube.com/playlist?list=PL0eyrZgxdwhxhsuT_QAqfi-NNVAlV4WIP
 
 <sup>A free 15-video PHP series created by an established YouTuber & course creator. Last updated on Aug 26, 2020. </sup>
