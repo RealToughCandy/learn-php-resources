@@ -45,6 +45,16 @@ https://www.youtube.com/watch?v=6ERdu4k62wI
 - **Laracasts**
 https://www.laracasts.com
 
-<sub>A video-based paid-membership site featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level. 
+<sub>A video-based paid-membership site featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level.</sub>
+
+- **Net Ninja's Object Orianted PHP YouTube Series**
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy
+
+<sup>A free 14-video Object Orianted PHP series created by an established YouTuber & course creator. Last updated on Oct 21, 2019.</sup>
+
+- **Net Ninja's Laravel 6 YouTube Series**
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q
+
+<sup>A free 30-video Laravel 6 series created by an established YouTuber & course creator. Last updated on March 6, 2020.</sup>
 
 # Advanced
