@@ -12,6 +12,11 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o
 
 <sup>A free 42-video PHP (and MySQL) series created by an established YouTuber & course creator. Last updated on Mar 14, 2019. </sup>
 
+- **Derek Banas's PHP YouTube Tutorial**
+https://youtu.be/NihZYkNpslE
+
+<sup>A free 1-video PHP Tutorial created by an established YouTuber & course creator. Video uploaded on Dec 9, 2019. </sup>
+
 
 # Intermediate
 
