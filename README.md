@@ -20,7 +20,7 @@ https://youtu.be/NihZYkNpslE
 
 <sup>A free 1-video PHP Tutorial created by an established YouTuber & course creator. Video uploaded on Dec 9, 2019. </sup>
 
-- **Dani Krossing's (formerly mmtuts) PHP YouTube Tutorial Series**
+- **Dani Krossing's (formerly mmtuts) PHP YouTube Tutorial Series (Updated)**
 https://www.youtube.com/playlist?list=PL0eyrZgxdwhxhsuT_QAqfi-NNVAlV4WIP
 
 <sup>A free 15-video PHP series created by an established YouTuber & course creator. Last updated on Aug 26, 2020. </sup>
@@ -41,6 +41,15 @@ https://phptherightway.com/
 https://www.youtube.com/watch?v=6ERdu4k62wI
 
 <sup>Get an understanding of how frameworks are made with this free 6-hour tutorial. The framework you build is not production-ready.</sup>
+
+- **Net Ninja's PHP OOP (Object Oriented) YouTube Series**
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy
+
+<sup>A free 14-video PHP OOP series created by an established YouTuber & course creator. Last updated on Oct 21, 2019. </sup>
+
+- **Dani Krossing's (formerly mmtuts) PHP OOP (Object Oriented) YouTube Tutorial Series (Updated)**
+https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh
+<sup>A free 18-video PHP series created by an established YouTuber & course creator. Last updated on Dec 08, 2019. </sup>
 
 - **Laracasts**
 https://www.laracasts.com
