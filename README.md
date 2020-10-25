@@ -28,14 +28,14 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhxhsuT_QAqfi-NNVAlV4WIP
 - **Learn PHP in One Day and Learn It Well. PHP for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 6)**
 https://www.amazon.com/PHP-Beginners-Hands-Project-Project-ebook/dp/B08BK7PPT2
 
-<sup>An easy to read book for absolute beginners to PHP who want to understand this language in a short amount of time. It starts from explaining what PHP is and goes into subjects like PHP data types, loops, etc. At the end, it guides you through a hands-on project by using everything that you have learned. </sup>
+<sup>An easy to read book for absolute beginners to PHP who want to understand this language in a short amount of time. It starts from explaining what PHP is and goes into subjects like PHP data types, loops, etc. At the end, it guides you through a hands-on project by using everything that you have learned. Paid. </sup>
 
 # Intermediate
 
 - **PHP The Right Way**
 https://phptherightway.com/
 
-<sup>PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time. </sup>
+<sup>PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time. Free. </sup>
 
 - **freeCodeCamp's Use PHP to Create an MVC YouTube Tutorial**
 https://www.youtube.com/watch?v=6ERdu4k62wI
