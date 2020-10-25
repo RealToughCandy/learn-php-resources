@@ -45,6 +45,6 @@ https://www.youtube.com/watch?v=6ERdu4k62wI
 - **Laracasts**
 https://www.laracasts.com
 
-<sub>A video-based paid-membership site featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge), and more. Most are intermediate to advanced level. 
+<sub>A video-based paid-membership site featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level. 
 
 # Advanced
