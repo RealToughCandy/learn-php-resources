@@ -42,4 +42,9 @@ https://www.youtube.com/watch?v=6ERdu4k62wI
 
 <sup>Get an understanding of how frameworks are made with this free 6-hour tutorial. The framework you build is not production-ready.</sup>
 
+- **Laracasts**
+https://www.laracasts.com
+
+<sub>A video-based paid-membership site featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge), and more. Most are intermediate to advanced level. 
+
 # Advanced
