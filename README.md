@@ -67,4 +67,9 @@ https://www.laracasts.com
 
 <sup>A video-based paid-membership site (you can find plenty of free videos though) featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level.</sup>
 
+- **Thinkster 'realworld' app**
+https://github.com/gothinkster?language=php
+
+<sup> Build a Medium.com clone with Laravel, Slim, and/or CakePHP. Read more about the project here: https://github.com/gothinkster/realworld</sup>
+
 # Advanced
