@@ -3,6 +3,8 @@
 
 "The elephant has entered the room." -Donovan
 
+![PHP elephant with Linux Penguin and Windows logo in background](https://github-production-repository-image-32fea6.s3.amazonaws.com/306814906/ed975280-15a0-11eb-9e1b-ca8faced7824?)
+
 _I'm accepting pull requests for this repo. Resources can be paid or free._ 
 
 Please follow the styling conventions and include the following so I can accept your contribution:
