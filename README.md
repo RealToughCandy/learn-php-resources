@@ -35,6 +35,12 @@ https://www.educative.io/courses/learn-php-from-scratch
 
 <sup>A free 71-lesson (video-free) PHP course.</sup>
 
+- **Code With Dary's PHP For Beginners 2020 YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi
+
+<sup>A free 63-video PHP series created by an established YouTuber & course creator. Last updated on Jun 6, 2020.</sup>
+
+
 # Intermediate
 
 - **PHP The Right Way**
@@ -61,5 +67,11 @@ https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh
 https://www.laracasts.com
 
 <sup>A video-based paid-membership site (you can find plenty of free videos though) featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level.</sup>
+
+- **Code With Dary's Object-Oriented PHP For Beginners 2020 YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV
+
+<sup>A free 15-video PHP series created by an established YouTuber & course creator. Last updated on Dec 7, 2020.</sup>
+
 
 # Advanced
