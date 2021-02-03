@@ -3,8 +3,15 @@
 
 "The elephant has entered the room." -Donovan
 
-_I'm accepting pull requests for this repo. Resources can be paid or free. 
-Please follow the styling conventions (be sure to indicate paid or free) so I can accept your contribution._
+![PHP elephant with Linux Penguin and Windows logo in background](https://github-production-repository-image-32fea6.s3.amazonaws.com/306814906/ed975280-15a0-11eb-9e1b-ca8faced7824?)
+
+_I'm accepting pull requests for this repo. Resources can be paid or free._ 
+
+Please follow the styling conventions and include the following so I can accept your contribution:
+- Indicate paid or free 
+- List course creator/author where applicable
+- List the date the material was published or last updated, if possible
+- If material is a series, list how many are in the series
 
 ### Thank you to my [GitHub Sponsors](https://github.com/sponsors/RealToughCandy) including @eddiejaoude & @keithballinger for making this repo possible.
 
@@ -73,10 +80,10 @@ https://github.com/gothinkster?language=php
 
 <sup> Build a Medium.com clone with Laravel, Slim, and/or CakePHP. Read more about the project here: https://github.com/gothinkster/realworld</sup>
 
+
 - **Code With Dary's Object-Oriented PHP For Beginners 2020 YouTube Tutorial Series**
 https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV
 
 <sup>A free 15-video PHP series created by an established YouTuber & course creator. Last updated on Dec 7, 2020.</sup>
-
 
 # Advanced
