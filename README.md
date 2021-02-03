@@ -42,6 +42,12 @@ https://www.educative.io/courses/learn-php-from-scratch
 
 <sup>A free 71-lesson (video-free) PHP course.</sup>
 
+- **Code With Dary's PHP For Beginners 2020 YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi
+
+<sup>A free 63-video PHP series created by an established YouTuber & course creator. Last updated on Jun 6, 2020.</sup>
+
+
 # Intermediate
 
 - **PHP The Right Way**
@@ -73,5 +79,11 @@ https://www.laracasts.com
 https://github.com/gothinkster?language=php
 
 <sup> Build a Medium.com clone with Laravel, Slim, and/or CakePHP. Read more about the project here: https://github.com/gothinkster/realworld</sup>
+
+
+- **Code With Dary's Object-Oriented PHP For Beginners 2020 YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV
+
+<sup>A free 15-video PHP series created by an established YouTuber & course creator. Last updated on Dec 7, 2020.</sup>
 
 # Advanced
