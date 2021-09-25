@@ -13,7 +13,7 @@ Please follow the styling conventions and include the following so I can accept 
 - List the date the material was published or last updated, if possible
 - If material is a series, list how many are in the series
 
-### Thank you to my [GitHub Sponsors](https://github.com/sponsors/RealToughCandy) including @eddiejaoude & @keithballinger for making this repo possible.
+### Thank you to my generous [GitHub Sponsors](https://github.com/sponsors/RealToughCandy) including @eddiejaoude & @keithballinger for making this repo possible.
 
 # Beginner
 
