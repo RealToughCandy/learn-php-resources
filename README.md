@@ -3,15 +3,23 @@
 
 "The elephant has entered the room." -Donovan
 
-_I'm accepting pull requests for this repo. Resources can be paid or free. 
-Please follow the styling conventions (be sure to indicate paid or free) so I can accept your contribution._
+![PHP elephant with Linux Penguin and Windows logo in background](https://github-production-repository-image-32fea6.s3.amazonaws.com/306814906/ed975280-15a0-11eb-9e1b-ca8faced7824?)
 
-### Thank you to my [GitHub Sponsors](https://github.com/sponsors/RealToughCandy) including @eddiejaoude & @keithballinger for making this repo possible.
+_I'm accepting pull requests for this repo. Resources can be paid or free._ 
+
+Please follow the styling conventions and include the following so I can accept your contribution:
+- Indicate paid or free 
+- List course creator/author where applicable
+- List the date the material was published or last updated, if possible
+- If material is a series, list how many are in the series
+
+### Thank you to my generous [GitHub Sponsors](https://github.com/sponsors/RealToughCandy) including @eddiejaoude & @keithballinger for making this repo possible.
 
 # Beginner
 
 - **W3 Schools PHP - Free**
 https://www.w3schools.com/php/DEFAULT.asp
+
 
 <sup>PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.
 PHP 7 is the latest stable release.</sup>
@@ -21,8 +29,10 @@ https://www.php.net/
 
 <sup>Free Resource to Learn PHP with Official Documentation.</sup>
 
+
 - **Tutorialspoint PHP Docs - Free**
 https://www.tutorialspoint.com/php/index.htm
+
 
 <sup>Learn PHP for Free with Tutorials Point.</sup>
 
@@ -45,7 +55,18 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o
 - **Learn PHP in One Day and Learn It Well. PHP for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 6)**
 https://www.amazon.com/PHP-Beginners-Hands-Project-Project-ebook/dp/B08BK7PPT2
 
-<sup>An easy to read book for absolute beginners to PHP who want to understand this language in a short amount of time. It starts from explaining what PHP is and goes into subjects like PHP data types, loops, etc. At the end, it guides you through a hands-on project by using everything that you have learned. Paid. </sup>
+<sup>An easy to read book for absolute beginners to PHP who want to understand this language in a short amount of time. It starts from explaining what PHP is and goes into subjects like PHP data types, loops, etc. At the end, it guides you through a hands-on project by using everything that you have learned. Paid.</sup>
+
+- **Educative - Learn PHP from Scratch (free course)**
+https://www.educative.io/courses/learn-php-from-scratch
+
+<sup>A free 71-lesson (video-free) PHP course.</sup>
+
+- **Code With Dary's PHP For Beginners 2020 YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi
+
+<sup>A free 63-video PHP series created by an established YouTuber & course creator. Last updated on Jun 6, 2020.</sup>
+
 
 - **Beginning PHP (TeamTreehouse) - PAID**
 https://teamtreehouse.com/tracks/beginning-php
@@ -86,10 +107,31 @@ https://www.youtube.com/watch?v=6ERdu4k62wI
 
 <sup>Get an understanding of how frameworks are made with this free 6-hour tutorial. The framework you build is not production-ready.</sup>
 
+- **Net Ninja's PHP OOP (Object Oriented) YouTube Series**
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy
+
+<sup>A free 14-video PHP OOP series created by an established YouTuber & course creator. Last updated on Oct 21, 2019.</sup>
+
+- **Dani Krossing's (formerly mmtuts) PHP OOP (Object Oriented) YouTube Tutorial Series (Updated)**
+https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh
+
+<sup>A free 18-video PHP series created by an established YouTuber & course creator. Last updated on Dec 08, 2019.</sup>
+
 - **Laracasts**
 https://www.laracasts.com
 
-<sub>A video-based paid-membership site featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level. 
+<sup>A video-based paid-membership site (you can find plenty of free videos though) featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level.</sup>
+
+- **Thinkster 'realworld' app**
+https://github.com/gothinkster?language=php
+
+<sup> Build a Medium.com clone with Laravel, Slim, and/or CakePHP. Read more about the project here: https://github.com/gothinkster/realworld</sup>
+
+
+- **Code With Dary's Object-Oriented PHP For Beginners 2020 YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV
+
+<sup>A free 15-video PHP series created by an established YouTuber & course creator. Last updated on Dec 7, 2020.</sup>
 
 - **Intermidiate PHP (Teamtreehouse) - PAID**
 https://teamtreehouse.com/tracks/intermediate-php
