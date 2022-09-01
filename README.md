@@ -67,6 +67,11 @@ https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi
 
 <sup>A free 63-video PHP series created by an established YouTuber & course creator. Last updated on Jun 6, 2020.</sup>
 
+- **PHP Tutorial for Beginners - Full Course | OVER 7 HOURS!**
+https://www.youtube.com/watch?v=t0syDUSbdfE
+
+<sup>A free 7hour PHP (features PHP 8) video course created by Envato Tuts+. Tutor: Jeremy McPeak. Uploaded on Jan 12, 2022.</sup>
+
 
 - **Beginning PHP (TeamTreehouse) - PAID**
 https://teamtreehouse.com/tracks/beginning-php
