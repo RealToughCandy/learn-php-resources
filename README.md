@@ -57,12 +57,12 @@ https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215
 
 <sup>Written by best-selling HTML & CSS and JavaScript & jQuery author Jon Duckett, this book uses a unique visual approach, with step-by-step instructions, practical code examples and pro tips that will teach you how to build modern database-driven websites using PHP. Paid.</sup>
 
-**Brad Hussey's Practical PHP: Master the Basics and Code Dynamic Websites (Free Udemy Course)**
+- **Brad Hussey's Practical PHP: Master the Basics and Code Dynamic Websites (Free Udemy Course)**
 https://www.udemy.com/course/code-dynamic-websites/
 
 <sup>A free 6.5hour video course. Learn PHP through real-world application & examples.</sup>
 
-**Dary Nazar's PHP & MySQL course for absolute beginners | Become a PHP pro (Free Udemy Course)**
+- **Dary Nazar's PHP & MySQL course for absolute beginners | Become a PHP pro (Free Udemy Course)**
 https://www.udemy.com/course/php-mysql-course-for-absolute-beginners/
 
 <sup>A free 7.5hour video course.</sup>
@@ -73,12 +73,12 @@ https://www.youtube.com/watch?v=xr6uZDRTna0
 <sup>A free 14.5hour PHP and MySQL (also covers HTML and JavaScript) video course created by University of Michigan's Professor, Dr Charles Severance. Uploaded to freeCodeCamp's YouTube channel on Nov 4, 2021. You can also find it as ["*Web Applications for Everybody Specialization*"](https://www.coursera.org/specializations/web-applications#courses) on Coursera. Specializations in Coursera aren't free, although you can separately enroll to each course of a Specialization which is free.</sup>
 
 
-**The Codeholic's PHP For Beginners**
+- **The Codeholic's PHP For Beginners**
 https://www.youtube.com/playlist?list=PLLQuc_7jk__Wmf_dN_Hhe88GTw-YAMIWk
 
 <sup>A free 38-video PHP playlist which contains both beginners and advanced video courses & tutorials. Last updated on Nov 26, 2021.</sup>
 
-**The Codeholic's PHP For Absolute Beginners | 6.5 Hour Course**
+- **The Codeholic's PHP For Absolute Beginners | 6.5 Hour Course**
 https://www.youtube.com/watch?v=2eebptXfEvw
 
 <sup>A free 6.5hour video course. Tutor: The Codeholic. Video is hosted by Traversy Media</sup>
@@ -137,7 +137,7 @@ https://www.youtube.com/watch?v=fiMo0zNdrt4
 
 <sup>A free 1.5hour PHP video course. Tutor: Peter Fisher. Uploaded on Jan 1, 2019.</sup>
 
-**The Codeholic's PHP For Beginners**
+- **The Codeholic's PHP For Beginners**
 https://www.youtube.com/playlist?list=PLLQuc_7jk__Wmf_dN_Hhe88GTw-YAMIWk
 
 <sup>A free 38-video PHP playlist which contains both beginners and advanced video courses & tutorials. Last updated on Nov 26, 2021.</sup>
