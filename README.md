@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=t0syDUSbdfE
 
 <sup>A free 7hour PHP (features PHP 8) video course created by Envato Tuts+. Tutor: Jeremy McPeak. Uploaded on Jan 12, 2022.</sup>
 
-- **Jon Duckett's PHP & MySQL: Server-side Web Development Book**
+- **Jon Duckett's PHP & MySQL: Server-side Web Development Book (paid)**
 https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215
 
 <sup>Written by best-selling HTML & CSS and JavaScript & jQuery author Jon Duckett, this book uses a unique visual approach, with step-by-step instructions, practical code examples and pro tips that will teach you how to build modern database-driven websites using PHP. Paid.</sup>
