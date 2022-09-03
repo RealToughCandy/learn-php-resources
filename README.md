@@ -52,6 +52,42 @@ https://www.youtube.com/watch?v=t0syDUSbdfE
 
 <sup>A free 7hour PHP (features PHP 8) video course created by Envato Tuts+. Tutor: Jeremy McPeak. Uploaded on Jan 12, 2022.</sup>
 
+- **Jon Duckett's PHP & MySQL: Server-side Web Development Book**
+https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215
+
+<sup>Written by best-selling HTML & CSS and JavaScript & jQuery author Jon Duckett, this book uses a unique visual approach, with step-by-step instructions, practical code examples and pro tips that will teach you how to build modern database-driven websites using PHP. Paid.</sup>
+
+**Brad Hussey's Practical PHP: Master the Basics and Code Dynamic Websites (Free Udemy Course)**
+https://www.udemy.com/course/code-dynamic-websites/
+
+<sup>A free 6.5hour video course. Learn PHP through real-world application & examples.</sup>
+
+**Dary Nazar's PHP & MySQL course for absolute beginners | Become a PHP pro (Free Udemy Course)**
+https://www.udemy.com/course/php-mysql-course-for-absolute-beginners/
+
+<sup>A free 7.5hour video course.</sup>
+
+- **Dr Charles Severance's (aka Dr Chuck) Web Applications for Everybody Course**
+https://www.youtube.com/watch?v=xr6uZDRTna0
+
+<sup>A free 14.5hour PHP and MySQL (also covers HTML and JavaScript) video course created by University of Michigan's Professor, Dr Charles Severance. Uploaded to freeCodeCamp's YouTube channel on Nov 4, 2021. You can also find it as ["*Web Applications for Everybody Specialization*"](https://www.coursera.org/specializations/web-applications#courses) on Coursera. Specializations in Coursera aren't free, although you can separately enroll to each course of a Specialization which is free.</sup>
+
+
+**The Codeholic's PHP For Beginners**
+https://www.youtube.com/playlist?list=PLLQuc_7jk__Wmf_dN_Hhe88GTw-YAMIWk
+
+<sup>A free 38-video PHP playlist which contains both beginners and advanced video courses & tutorials. Last updated on Nov 26, 2021.</sup>
+
+**The Codeholic's PHP For Absolute Beginners | 6.5 Hour Course**
+https://www.youtube.com/watch?v=2eebptXfEvw
+
+<sup>A free 6.5hour video course. Tutor: The Codeholic. Video is hosted by Traversy Media</sup>
+
+- **Program With Gio's Learn PHP 8 The Right Way - Full PHP 8 Tutorial For Beginners & Advanced**
+https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
+
+<sup>A free 98-video PHP series which covers both beginners and advanced topics. Last updated on Aug 25, 2022.</sup>
+
 
 # Intermediate
 
@@ -90,5 +126,25 @@ https://github.com/gothinkster?language=php
 https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV
 
 <sup>A free 15-video PHP series created by an established YouTuber & course creator. Last updated on Dec 7, 2020.</sup>
+
+- **Learn Object Oriented PHP - 2 hour Object Oriented Programming Lesson For Beginners | PHP OOP**
+https://www.youtube.com/watch?v=NyRWaQo1pZo
+
+<sup>A free 2hour PHP video course. Tutor: Gary Clarke. Uploaded on Jan 1, 2021.</sup>
+
+- **PHP OOP Full Course**
+https://www.youtube.com/watch?v=fiMo0zNdrt4
+
+<sup>A free 1.5hour PHP video course. Tutor: Peter Fisher. Uploaded on Jan 1, 2019.</sup>
+
+**The Codeholic's PHP For Beginners**
+https://www.youtube.com/playlist?list=PLLQuc_7jk__Wmf_dN_Hhe88GTw-YAMIWk
+
+<sup>A free 38-video PHP playlist which contains both beginners and advanced video courses & tutorials. Last updated on Nov 26, 2021.</sup>
+
+- **Program With Gio's Learn PHP 8 The Right Way - Full PHP 8 Tutorial For Beginners & Advanced**
+https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
+
+<sup>A free 98-video PHP series which covers both beginners and advanced topics. Last updated on Aug 25, 2022.</sup>
 
 # Advanced
