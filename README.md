@@ -57,6 +57,11 @@ https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215
 
 <sup>Written by best-selling HTML & CSS and JavaScript & jQuery author Jon Duckett, this book uses a unique visual approach, with step-by-step instructions, practical code examples and pro tips that will teach you how to build modern database-driven websites using PHP. Paid.</sup>
 
+- **Flavio Cope's PHP & MySQL: Server-side Web Development Book (free)**
+https://thevalleyofcode.com/php/
+
+<sup>Available online but you can also [download](https://thevalleyofcode.com/download/php/) it (requires newsletter subscription) in all known formats (PDF/EPUB/Mobi). Updated June, 2022. Free.</sup>
+
 - **Brad Hussey's Practical PHP: Master the Basics and Code Dynamic Websites (Free Udemy Course)**
 https://www.udemy.com/course/code-dynamic-websites/
 
@@ -71,7 +76,6 @@ https://www.udemy.com/course/php-mysql-course-for-absolute-beginners/
 https://www.youtube.com/watch?v=xr6uZDRTna0
 
 <sup>A free 14.5hour PHP and MySQL (also covers HTML and JavaScript) video course created by University of Michigan's Professor, Dr Charles Severance. Uploaded to freeCodeCamp's YouTube channel on Nov 4, 2021. You can also find it as ["*Web Applications for Everybody Specialization*"](https://www.coursera.org/specializations/web-applications#courses) on Coursera. Specializations in Coursera aren't free, although you can separately enroll to each course of a Specialization which is free.</sup>
-
 
 - **The Codeholic's PHP For Beginners**
 https://www.youtube.com/playlist?list=PLLQuc_7jk__Wmf_dN_Hhe88GTw-YAMIWk
