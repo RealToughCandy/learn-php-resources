@@ -167,3 +167,8 @@ https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
 <sup>A free 98-video PHP series which covers both beginners and advanced topics. Last updated on Aug 25, 2022.</sup>
 
 # Advanced
+
+- **Brad Traversy's (Traversy Media) PHP REST API From Scratch YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo
+
+<sup>A free 3-video PHP series created by an established YouTuber & course creator. Last updated on Jul 26, 2018.</sup>
