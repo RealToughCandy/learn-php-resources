@@ -72,6 +72,21 @@ https://www.udemy.com/course/php-mysql-course-for-absolute-beginners/
 
 <sup>A free 7.5hour video course.</sup>
 
+- **Codemy's PHP For Web Development YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLCC34OHNcOtoOZr2of9zmL6keu59FoVE8
+
+<sup>A free 21-video PHP series created by an established YouTuber & course creator. Last updated on May 11, 2019.</sup>
+
+- **Brad Traversy's (Traversy Media) PHP: Front To Back YouTube Tutorial Series**
+https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
+
+<sup>A free 22-video PHP series created by an established YouTuber & course creator. Last updated on Jun 3, 2017.</sup>
+
+- **Brad Traversy's (Traversy Media) PHP For Beginners | 3+ Hour Crash Course**
+https://www.youtube.com/watch?v=BUCiSSyIGGU
+
+<sup>A free 3hour crash course video created by an established YouTuber & course creator. Uploaded on Mar 30, 2022.</sup>
+
 - **Dr Charles Severance's (aka Dr Chuck) Web Applications for Everybody Course**
 https://www.youtube.com/watch?v=xr6uZDRTna0
 
