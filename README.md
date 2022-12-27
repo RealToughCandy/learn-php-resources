@@ -143,6 +143,11 @@ https://teamtreehouse.com/tracks/objectoriented-php-2
 
 <sup>learn the modern approach to appliaction development in PHP using Objects,Templates,Dependency Managment and 3rd Part Packages.</sup>
 
+- **Modern PHP Cheat Sheet**
+https://front-line-php.com/cheat-sheet
+
+<sup>A to-the-point summary of all awesome PHP features.</sup>
+
 # Advanced
 
 - **Create a Twitter Social Network Clone From Scratch PHP,MySQL - PAID**
